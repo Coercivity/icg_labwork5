@@ -1,1 +1,1 @@
-* Шевелин Евгений ([View](https://icg-course.github.io/2021/Coercivity/5/))
+* ([View](https://icg-course.github.io/2021/Coercivity/5/))
